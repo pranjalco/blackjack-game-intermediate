@@ -7,7 +7,7 @@ can choose to replay the game after each round.
 ## how to Play
 Welcome to the Blackjack Game! 🎴
 
--How to Play:
+## How to Play:
 1. The goal of Blackjack is to beat the dealer by getting as close to 21 as possible without going over.
 2. You and the dealer will be dealt cards from a deck with the following rules:
    - The deck is unlimited in size and contains no jokers.
