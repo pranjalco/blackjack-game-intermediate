@@ -4,8 +4,6 @@
 This is a text-based implementation of the classic Blackjack game in Python. The game follows standard Blackjack rules, 
 allowing players to hit or stand, and includes dynamic handling of Aces, dealer logic, and win conditions. Players 
 can choose to replay the game after each round.
-## how to Play
-Welcome to the Blackjack Game! 🎴
 
 ## How to Play:
 1. The goal of Blackjack is to beat the dealer by getting as close to 21 as possible without going over.
